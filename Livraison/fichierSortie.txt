@@ -1,0 +1,43 @@
+Planning - Nombre de tournées = 3 | Distance totale : 1167.4448888664806 | Nombre de caisses livrées : 109
+ Tournee - Nombre de clients visités = 1 | Longueur = 49.675981699408815 | Nombre de caisses livrées par la tournée = 13
+ {
+     Client
+{     Point {id=10, abscisse=14.2369, ordonnee=20.3528} - Nombre de caisses de bières demandées = 13
+},
+
+},
+ Tournee - Nombre de clients visités = 4 | Longueur = 619.3372922506098 | Nombre de caisses livrées par la tournée = 49
+ {
+     Client
+{     Point {id=1, abscisse=-99.7497, ordonnee=12.7171} - Nombre de caisses de bières demandées = 4
+},
+   Client
+{     Point {id=2, abscisse=61.7481, ordonnee=17.0019} - Nombre de caisses de bières demandées = 10
+},
+   Client
+{     Point {id=3, abscisse=-29.9417, ordonnee=79.1925} - Nombre de caisses de bières demandées = 17
+},
+   Client
+{     Point {id=4, abscisse=49.321, ordonnee=-65.1784} - Nombre de caisses de bières demandées = 18
+},
+
+},
+ Tournee - Nombre de clients visités = 5 | Longueur = 498.4316149164619 | Nombre de caisses livrées par la tournée = 47
+ {
+     Client
+{     Point {id=5, abscisse=42.1003, ordonnee=2.70699} - Nombre de caisses de bières demandées = 7
+},
+   Client
+{     Point {id=6, abscisse=-97.0031, ordonnee=-81.7194} - Nombre de caisses de bières demandées = 8
+},
+   Client
+{     Point {id=7, abscisse=-70.5374, ordonnee=-66.8203} - Nombre de caisses de bières demandées = 20
+},
+   Client
+{     Point {id=8, abscisse=-10.8615, ordonnee=-76.1834} - Nombre de caisses de bières demandées = 1
+},
+   Client
+{     Point {id=9, abscisse=-98.2177, ordonnee=-24.424} - Nombre de caisses de bières demandées = 11
+},
+
+},
